@@ -1,6 +1,3 @@
-# Vaea App
-#Fahad Alsehami
-
 React Native App
 
 1. npm install -g react-native-cli
